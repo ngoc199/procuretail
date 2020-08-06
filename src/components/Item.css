@@ -1,0 +1,7 @@
+.quantity-control {
+    opacity: 0;
+}
+
+.item:hover > .quantity-control {
+    opacity: 1;
+}
