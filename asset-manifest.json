@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/procuretail/static/css/main.bcc5d984.chunk.css",
+    "main.js": "/procuretail/static/js/main.19cb89d3.chunk.js",
+    "main.js.map": "/procuretail/static/js/main.19cb89d3.chunk.js.map",
+    "runtime-main.js": "/procuretail/static/js/runtime-main.f193a7ac.js",
+    "runtime-main.js.map": "/procuretail/static/js/runtime-main.f193a7ac.js.map",
+    "static/css/2.f6ba898d.chunk.css": "/procuretail/static/css/2.f6ba898d.chunk.css",
+    "static/js/2.26567a15.chunk.js": "/procuretail/static/js/2.26567a15.chunk.js",
+    "static/js/2.26567a15.chunk.js.map": "/procuretail/static/js/2.26567a15.chunk.js.map",
+    "index.html": "/procuretail/index.html",
+    "precache-manifest.e67da3d6e1fce4d8bd8c5d5a517b709f.js": "/procuretail/precache-manifest.e67da3d6e1fce4d8bd8c5d5a517b709f.js",
+    "service-worker.js": "/procuretail/service-worker.js",
+    "static/css/2.f6ba898d.chunk.css.map": "/procuretail/static/css/2.f6ba898d.chunk.css.map",
+    "static/css/main.bcc5d984.chunk.css.map": "/procuretail/static/css/main.bcc5d984.chunk.css.map",
+    "static/js/2.26567a15.chunk.js.LICENSE.txt": "/procuretail/static/js/2.26567a15.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/procuretail/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/logo.svg": "/procuretail/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f193a7ac.js",
+    "static/css/2.f6ba898d.chunk.css",
+    "static/js/2.26567a15.chunk.js",
+    "static/css/main.bcc5d984.chunk.css",
+    "static/js/main.19cb89d3.chunk.js"
+  ]
+}
