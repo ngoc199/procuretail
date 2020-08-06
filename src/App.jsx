@@ -14,7 +14,7 @@ import Button from './components/Button'
 function App() {
 
   // List of bought items
-  [itemList, setItemList] = useState([])
+  const [itemList, setItemList] = useState([])
 
   // Update Item List
   // // const updateitemlist = () => {
